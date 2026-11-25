@@ -168,8 +168,6 @@ This project is intended for educational demonstrations and controlled security 
 
 Python Developer | Cybersecurity Enthusiast
 
-GitHub: [@khumankinjal34-source](https://github.com/khumankinjal34-source)
-
 ## 📄 License
 
 No license has been added yet. All rights are reserved unless a license is added to this repository.
