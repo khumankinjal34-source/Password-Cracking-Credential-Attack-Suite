@@ -1,0 +1,87 @@
+============================================================
+             PASSWORD SECURITY AUDIT REPORT
+============================================================
+
+Report generated: 2026-11-21 23:34:41
+Assessment type: Educational password policy assessment
+Scope: Fictional passwords supplied for local lab testing
+
+------------------------------------------------------------
+1. AUDIT SUMMARY
+------------------------------------------------------------
+Total passwords analyzed: 4
+Weak passwords:           4
+Medium passwords:         0
+Strong passwords:         0
+
+------------------------------------------------------------
+2. INDIVIDUAL RESULTS
+------------------------------------------------------------
+Actual password values are intentionally not included.
+
+Test password #1
+Length: 5 characters
+Strength: WEAK
+Score: 0
+Estimated entropy: 23.5
+Recommendations:
+  - Use at least 12 characters.
+  - Include uppercase letters.
+  - Include numbers.
+  - Include special characters.
+  - Avoid common words, keyboard patterns and predictable sequences.
+  - Use a longer password or passphrase.
+
+Test password #2
+Length: 10 characters
+Strength: WEAK
+Score: 2
+Estimated entropy: 59.54
+Recommendations:
+  - Include special characters.
+  - Avoid common words, keyboard patterns and predictable sequences.
+  - Use a longer password or passphrase.
+
+Test password #3
+Length: 9 characters
+Strength: WEAK
+Score: 3
+Estimated entropy: 58.99
+Recommendations:
+  - Avoid common words, keyboard patterns and predictable sequences.
+  - Use a longer password or passphrase.
+
+Test password #4
+Length: 6 characters
+Strength: WEAK
+Score: 0
+Estimated entropy: 31.02
+Recommendations:
+  - Use at least 12 characters.
+  - Include uppercase letters.
+  - Include special characters.
+  - Avoid common words, keyboard patterns and predictable sequences.
+  - Use a longer password or passphrase.
+
+------------------------------------------------------------
+3. SECURITY RECOMMENDATIONS
+------------------------------------------------------------
+1. Use long, unique passwords for every account.
+2. Avoid common words, predictable patterns, and reused passwords.
+3. Use a password manager to create and store unique passwords.
+4. Enable multi-factor authentication wherever possible.
+5. Apply rate limiting and account protection against repeated login attempts.
+6. Encourage users to use passphrases or randomly generated passwords.
+
+------------------------------------------------------------
+4. SCOPE AND LIMITATIONS
+------------------------------------------------------------
+- This report is based only on fictional lab password inputs.
+- No real user accounts or credentials were accessed.
+- Strength ratings are estimates from the local analyzer.
+- Entropy estimates do not guarantee resistance to real attacks.
+- This report does not represent a live system security assessment.
+
+============================================================
+                 END OF AUDIT REPORT
+============================================================
